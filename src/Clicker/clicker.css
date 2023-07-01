@@ -1,0 +1,11 @@
+#clicker {
+    border:1px solid rgb(107, 107, 107);
+    border-radius: 50%;
+    height:450px;
+    width:450px;
+    background-color: #444444;
+}
+#clicker:hover{
+    cursor: pointer;
+}
+#nbClicks{color:white;}
